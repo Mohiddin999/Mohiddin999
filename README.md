@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Mohiddin999
+- 👋 Hi, I’m Mohiddin Shaik
+-  User: @Mohiddin999
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning DSA
 - 📫 How to reach me mohiddin.shaik99999@gmail.com
