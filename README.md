@@ -10,7 +10,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <a href="https://www.github.com/Mohiddin999" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Mohiddin999?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohiddin999&label=Profile%20views&color=0e75b6&style=flat" alt="Mohiddin999" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/codewithbiki" target="blank"><img src="https://img.shields.io/twitter/follow/mohiddin_shaik9?logo=twitter&style=for-the-badge" alt="mohiddin_shaik9" /></a> </p>
 
