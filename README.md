@@ -24,7 +24,7 @@ src="https://img.shields.io/github/followers/Mohiddin999?logo=github&style=for-t
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://wsofter.ru/wp-content/uploads/2017/12/node-express.png" alt="express" width="40" height="40"/> </a>--->
 
 # Badges 
-
+<!---
 [![An image of @dipayansarkar47's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dipayansarkar47)](https://holopin.io/@dipayansarkar47)
 
 <b>My GitHub Stats</b>
