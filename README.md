@@ -1,7 +1,7 @@
 Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohiddin Shaik
 ======================================================================================================================================
 <h4>A Full-Stack developer</h4>
-
+ 
 - 🔭 I’m currently working on a MERN Project
 - 🌱 I’m Interested to work on Software Development
 - 💬 Ask me about Technology & Finance
@@ -10,7 +10,6 @@ Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 
 <a href="https://www.github.com/Mohiddin999" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Mohiddin999?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 
 <p align="left"> <a href="https://www.linkedin.com/in/mohiddinshaik9999" target="blank"><img src="https://img.shields.io/twitter/follow/mohiddinshaik9999?logo=linkedin&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="mohiddinshaik9999" /></a> </p>
 
