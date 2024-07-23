@@ -4,9 +4,9 @@ Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
  
 - 🔭 I’m currently working on a MERN Project
 - 🌱 I’m Interested to work on Software Development
-- 💬 Ask me about Technology & Finance
+- 💬 Ask me about Technology
 - 📫 How to reach me: mohiddin.shaik99999@gmail.com
-- ⚡ Fun fact: I'm currently studying B.Tech. in Computer Science
+- ⚡ Fun fact: I'm currently studying my final year B.Tech. in Computer Science
 
 <a href="https://www.github.com/Mohiddin999" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Mohiddin999?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
