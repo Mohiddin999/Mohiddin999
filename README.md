@@ -2,7 +2,6 @@ Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 ======================================================================================================================================
 <h4>A Full-Stack developer</h4>
  
-- 🔭 I’m currently working on a MERN Project
 - 🌱 I’m Interested to work on Software Development
 - 💬 Ask me about Technology
 - 📫 How to reach me: mohiddin.shaik99999@gmail.com
