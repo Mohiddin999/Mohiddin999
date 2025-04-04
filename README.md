@@ -6,6 +6,11 @@ Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 - 💬 Ask me about Technology
 - 📫 How to reach me: mohiddin.shaik99999@gmail.com
 - ⚡ Fun fact: I'm currently studying my final year B.Tech. in Computer Science
+- 🌱 I’m interested in Software Development and building scalable web applications
+💼 Currently interning at Deloitte as a Technology Intern, working on full-stack development using React.js, Node.js, and Java APIs
+💬 Ask me about Technology, Web Development, and Internships
+📫 Reach me at: mohiddin.shaik99999@gmail.com
+⚡ Fun fact: I'm currently in my final year of B.Tech. in Computer Science
 
 <a href="https://www.github.com/Mohiddin999" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Mohiddin999?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
